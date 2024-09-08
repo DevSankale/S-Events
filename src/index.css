@@ -10,7 +10,7 @@
 .hero{
   max-width: 100%;
   height: auto;
-  background-image: url("./public/images/img5.jpg" );
+  background-image: url("/images/img5.jpg" );
   background-size: cover;
   background-repeat: no-repeat;
   padding: 40px;
@@ -179,7 +179,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   .foot{
     background-color: black;
     color: white;
-    background-image: url("./images/img7.jpg" );
+    background-image: url("/images/img7.jpg" );
     background-size: cover;
     margin-top: 250px;
 
