@@ -50,13 +50,13 @@ export default function Footer(){
         <button className="submit">Submit</button>
       </form>
       <div className="socialLinks">
-        <a href=""><img src="./src/assets/images/black-instagram-icon.png" width="20px" height="auto" className="linkContainer"/>Instagram</a>
-        <a href=""><img src="./src/assets/images/twitter-square-icon.png" width="20px" height="auto" className="linkContainer"/>Twitter</a>
-        <a href=""><img src="./src/assets/images/facebook-app-round-icon.png" width="20px" height="auto" className="linkContainer"/>Facebook</a>
-        <a href=""><img src="./src/assets/images/youtube-icon.png" width="20px" height="auto" className="linkContainer"/>Youtube</a>
+        <a href=""><img src="./images/black-instagram-icon.png" width="20px" height="auto" className="linkContainer"/>Instagram</a>
+        <a href=""><img src="./images/twitter-square-icon.png" width="20px" height="auto" className="linkContainer"/>Twitter</a>
+        <a href=""><img src="./images/facebook-app-round-icon.png" width="20px" height="auto" className="linkContainer"/>Facebook</a>
+        <a href=""><img src="./images/youtube-icon.png" width="20px" height="auto" className="linkContainer"/>Youtube</a>
       </div>
     </div>
-    <p className="signage"><img src="./src/assets/images/logo1.png" className="logoimage" width="100px" height="auto"/></p>
+    <p className="signage"><img src="./images/logo1.png" className="logoimage" width="100px" height="auto"/></p>
     </div>
   )
 }

@@ -4,7 +4,7 @@ export default function Hero(){
   return (
     <div className="hero">
       <div className="nav">
-          <p><img src="./src/assets/images/logo1.png" className="logoimage" width="100px" height="auto"/></p>
+          <p><img src="./images/logo1.png" className="logoimage" width="100px" height="auto"/></p>
           <ul className="unlist">
             <li className="list"><a 
             href="#Home"className="navlist">Home</a></li>

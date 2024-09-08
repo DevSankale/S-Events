@@ -5,19 +5,19 @@ export default function SocialProof (){
     <>
     <div className="iconContainer">
         <div className="icons">
-          <img src="./src/assets/images/right-correct-icon.png" className="icon"/>
+          <img src="./images/right-correct-icon.png" className="icon"/>
           <p>Tried</p>
         </div>
         <div className="icons">
-          <img src="./src/assets/images/urine-test-icon.png" className="icon"/>
+          <img src="./images/urine-test-icon.png" className="icon"/>
           <p>Tested</p>
         </div>
         <div className="icons">
-          <img src="./src/assets/images/protect-icon.png" className="icon"/>
+          <img src="./images/protect-icon.png" className="icon"/>
           <p>Certified</p>
         </div>
         <div className="icons">
-          <img src="./src/assets/images/handshake-icon.png" className="icon"/>
+          <img src="./images/handshake-icon.png" className="icon"/>
           <p>Approved</p>
         </div>
     </div>
@@ -58,11 +58,11 @@ export default function SocialProof (){
           <p>"We cannot thank S Events enough for the incredible job they did on our wedding day! From our very first meeting, their team was attentive, organized, and genuinely invested in making our vision a reality. Every detail was meticulously planned, from the stunning floral arrangements to the seamless coordination of the ceremony and reception. On the day of the wedding, everything went off without a hitch, allowing us to fully enjoy our special moments with family and friends. Our guests are still raving about the beautiful decor and the fantastic atmosphere created by the S Events team. Their professionalism and passion for what they do truly shone through, making our day not just a celebration, but a cherished memory we will hold dear forever. Thank you, S Events, for making our wedding dreams come true!"</p>
           <p>- Mantai and Faith - <i>clients after we organized a successful wedding for them.</i></p>
           <div className="stars">
-              <img src="./src/assets/images/star-icon.png" width="30px" height="auto" className="star"/>
-              <img src="./src/assets/images/star-icon.png" width="30px" height="auto" className="star"/>
-              <img src="./src/assets/images/star-icon.png" width="30px" height="auto" className="star"/>
-              <img src="./src/assets/images/star-icon.png" width="30px" height="auto" className="star"/>
-              <img src="./src/assets/images/star-half-yellow-icon.png" width="30px" height="auto" className="star"/>
+              <img src="./images/star-icon.png" width="30px" height="auto" className="star"/>
+              <img src="./images/star-icon.png" width="30px" height="auto" className="star"/>
+              <img src="./images/star-icon.png" width="30px" height="auto" className="star"/>
+              <img src="./images/star-icon.png" width="30px" height="auto" className="star"/>
+              <img src="./images/star-half-yellow-icon.png" width="30px" height="auto" className="star"/>
 
           
           </div>
