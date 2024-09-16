@@ -20,7 +20,7 @@ export default function Footer(){
   return (
     <div className="foot" id="Contacts">
     <div className="footer">
-      <form className="form">
+      <form className="form" action="https://formsubmit.co/djsankee@gmail.com" method="POST">
         <label className="label">FirstName</label>
         <input type="text" 
                 onChange={hanldeChange}
@@ -47,6 +47,7 @@ export default function Footer(){
                   value={formData.message}
                  
         ></textarea>
+        <input type="hidden" name="_next" value="https://devsankale.github.io/S-Events/" />
         <button className="submit">Submit</button>
       </form>
       <div className="socialLinks">
